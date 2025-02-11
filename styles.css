@@ -27,7 +27,7 @@ h2 {
     margin-bottom: 24px;
 }
 
-h3 {
+p.title {
     color: var(--color-rose-800);
     font-weight: 600;
 }
